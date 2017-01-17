@@ -1,8 +1,8 @@
 # Networking
 
-1. CORS Cross-Origin Resource Sharing
+### 1. CORS Cross-Origin Resource Sharing
 
-* 정의
+##### 정의
 
 CORS는 다른 origin(웹서버, 도메인)에 접근할 때, 어떻게 브라우져와 서버가 커뮤니케이션 해야 하는가에 대한 W3C의 프로토콜이다.
 MS가 처음 XMLHttpRequest를 만들 때만 해도 보안상의 이유로 다른 origin의 접근을 막는 것이 타당했다.
